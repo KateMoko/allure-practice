@@ -8,6 +8,7 @@ build/
 /build
 .gradle
 /gradlew
+/gradle
 /gradlew.bat
 *.class
 
